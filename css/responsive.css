@@ -1,0 +1,428 @@
+@media screen and (max-width:960px){
+	.headerWrapper,
+	.sliderWrapper,
+	.aboutusContainer,
+	.testimonailWrap,
+	.productItemListContainer,
+	.serviceListWrapper,
+	.contactUsContainer,
+	.companyInfoWrapper,
+	.testimonialContainer h2,
+	.productParallaxContainer h2{
+		width:96%;
+	}
+	p{
+		font-size:15px;
+		line-height:20px;
+	}
+	h2{
+		font-size:28px;
+	}
+	.logoWrapper{
+		padding:10px 0;
+	}
+	.logoWrapper a img{
+		width:120px;
+	}
+	.navigationWrapper > ul > li > a{
+		font-size:16px;
+		padding:26px 15px 10px;
+	}
+	.sliderWrapper{
+		-webkit-background-size:95% auto;
+		-moz-background-size:95% auto;
+		-o-background-size:95% auto;
+		background-size:95% auto;
+		background-position:25px 192px;
+	}
+	.sliderWrap{
+		width:88%;
+	}
+	.sliderControlWrapper a{
+		left:10px;
+	}
+	.sliderControlWrapper a.next{
+		right:8px;
+	}
+	.companyInfoWrapper h1{
+		font-size:28px;
+	}
+	.leftCompanyInfoWrapper{
+		width:60%;
+	}
+	.rightCompanyInfoWrapper{
+		width:32%;
+	}
+	.TestimonialParallaxContainer h3{
+		width:68%;
+		top:24px;
+		line-height:30px;
+		font-size:26px;
+	}	
+	.aboutInfoBlock h2 {
+		margin-bottom: 15px;
+	}
+	.aboutImgInfoWrap{
+		width:58%;
+	}
+	.aboutInfoBlock p{
+		margin-bottom:15px;
+	}
+	.aboutInfoImg{
+		width:35%;
+	}
+	.testimonialContainer h2{
+		margin-bottom:20px;
+	}
+	.testimonailInfoWrapper p{
+		font-size:15px;
+	}
+	.productParallaxContainer h2{
+		margin-bottom:20px;
+	}
+	.productParallaxImgWrapper img{
+		width:500px;
+	}
+	.productListImgWrap{
+		width:33%;
+	}
+	.productListContentWrap{
+		width:60%;
+	}
+	.productListContentWrap h2{
+		font-size:26px;
+		line-height:26px;
+	}
+	.productListContentWrap a{
+		font-size:14px;
+		margin-top:10px;
+		padding:5px 20px;
+	}
+	.infrastructureParallaxContainer p{
+		font-size:22px;
+		line-height:26px;
+		width:580px;
+		top:38px;
+	}
+	.serviceListWrapper ul li{
+		line-height:26px;
+	}
+	.contactUsContainer{
+		margin-top:25px;
+	}
+	.addressWrapper{
+		width:46%;
+	}
+	.formWrapper{
+		width:50%;
+	}
+	.addressContent p{
+		font-size:13px;
+	}
+	.formWrapper form fieldset{
+		margin-bottom:15px;
+	}
+	.formWrapper form fieldset label{
+		line-height:36px;
+	}
+	.formWrapper form fieldset input[type="text"], 
+	.formWrapper form fieldset textarea{
+		width:75%;
+	}
+	.copyrightWrapper{
+		margin-top:80px;
+	}
+	.rightCopyrightWrapper{
+		padding:6px 0 12px;
+	}
+}
+@media screen and (max-width:768px){
+	.navigationWrapper{
+		display:none;
+	}	
+	.responsiveNavIcon{
+		display:block;
+	}
+	.headerContainer{
+		border-bottom-width:3px;
+	}
+	.logoWrapper{
+		padding:5px 0;
+	}
+	.logoWrapper a img,
+	.fixHeader .logoWrapper a img{
+		width:70px;
+	}	
+	.sliderWrapper {
+		background-position: 35px 140px;
+		-webkit-background-size: 90% auto;
+		-moz-background-size: 90% auto;
+		-o-background-size: 90% auto;
+		background-size: 90% auto;
+	}
+	.sliderWrap{
+		width:90%;
+	}
+	.sliderWrap img{
+		border-width:5px;
+	}
+	.sliderControlWrapper a{
+		top:41%;
+		left:9px;
+	}
+	.sliderControlWrapper a.next{
+		right:9px;
+	}
+	.sliderControlWrapper a img{
+		width:16px;
+		height:22px;
+	}
+	.sliderInfoContainer{
+		padding:20px 0;
+	}
+	.sliderPagerWrap{
+		margin-top:5px;
+	}
+	.sliderPagerWrap a{
+		width:6px;
+		height:6px;
+		margin-right:4px;
+	}
+	.companyInfoWrapper h1 {
+  		font-size:20px;
+  		text-align:center;
+	}
+	p{
+  		font-size:11px;
+  		line-height:14px;
+	}
+	h2{
+		font-size:24px;
+	}
+	.leftCompanyInfoWrapper{
+		width:94%;
+		margin:0 auto;
+		float:none;
+	}
+	.leftCompanyInfoWrapper p{
+		text-align:center;
+	}
+	.rightCompanyInfoWrapper{
+		width:60%;
+		margin:10px auto 0;
+		border-width:5px;
+		float:none;
+		height:85px;	
+	}
+	.rightCompanyInfoWrapper img{
+		height:100%;
+	}	
+	.TestimonialParallaxContainer h3 {
+		font-size: 18px;
+		line-height: 20px;
+		top: 10px;
+		width: 68%;
+	}
+	.aboutusContainer{
+		padding:10px 0;
+	}
+	.aboutInfoBlock{
+		margin-bottom:20px;
+	}
+	.aboutInfoBlock h2{
+		text-align:center;
+	}
+	.aboutImgInfoWrap{
+		width:100%;
+		float:none;
+	}	
+	.aboutInfoBlock p{
+		margin-bottom:10px;
+		text-align:center;
+	}
+	.aboutInfoImg{
+    	border-width: 5px;
+    	float: none;
+    	margin: 10px auto;
+    	width: 60%;
+	}
+	.testimonailControlsWrapper a{
+		-webkit-background-size:auto 25px;
+		-moz-background-size:auto 25px;
+		-o-background-size:auto 25px;
+		background-size:auto 25px;
+		padding:0 4px;
+	}	
+	.testimonailInfoWrapper p {
+		font-size: 11px;
+	}	
+	.testimonialContainer h2,
+	.productParallaxContainer h2{
+		margin-bottom: 10px;
+		text-align: center;
+	}
+	.productParallaxImg{
+		height:150px;
+		background-attachment:local;
+	}
+	.productParallaxImgWrapper img{
+		width:320px;
+	}
+	.productItemListBlockWrapper h2{
+		text-align:center;
+	}
+	.productListBlock{
+		margin:20px 0;
+	}
+	.productListImgWrap{
+		border-width:5px;
+    	float:none;
+    	margin:0 auto;
+    	width:50%;
+	}
+	.productListContentWrap{
+		width:100%;
+		margin-top:10px;
+	}
+	.productListContentWrap h2{
+		text-align:center;
+		font-size:24px;
+	}
+	.productListContentWrap p{
+		text-align:center;
+	}
+	.productListContentWrap a{
+		display:table;
+    	float:none;
+    	font-size: 12px;
+    	margin:10px auto 0;
+    	padding:4px 12px;
+	}	
+	sup{
+		font-size:14px;
+	}
+	.infrastructureImg{
+		height:110px;
+		background-attachment:scroll;
+	}	
+	.infrastructureParallaxContainer p {
+		font-size: 16px;
+		line-height: 20px;
+		top: 25px;
+		width: 92%;
+	}
+	.serviceListWrapper{
+		margin-top:15px;
+	}
+	.serviceListWrapper h2{
+		text-align:center;
+	}	
+	.serviceListWrapper ul li{
+		font-size: 13px;
+		line-height: 22px;
+		text-align: center;
+	}
+	.contactUsContainer h2{
+		text-align:center;
+		margin-bottom:0;
+	}
+	.contactUsContainer p{
+		text-align:center;
+	}	
+	.addressWrapper{
+		width:100%;
+	}
+	.addressInfoBlock{
+		margin-bottom:10px;
+	}	
+	.addressIcon{
+		display:table;
+		float:none;
+		margin:0 auto 5px;
+	}
+	.addressContent{
+		float:none;
+	}
+	.socialMediaWrapper{
+		display:table;
+		margin:0 auto;
+	}
+	.socialMediaWrapper h3{
+		text-align:center;
+		font-size:18px;
+		margin-bottom:5px;
+	}
+	.socialMedia{
+		text-align:center;
+	}
+	.socialMedia a{
+		-webkit-background-size:auto 25px;
+		-moz-background-size:auto 25px;
+		-o-background-size:auto 25px;
+		background-size:auto 25px;
+		width:25px;
+		height:25px;
+		margin-right:5px;
+		display:inline-block;
+		float:none;
+	}
+	.socialMedia a.linkdin{
+		background-position:-25px 0;
+	}
+	.socialMedia a.twitter{
+		background-position:-50px 0;
+	}
+	.formWrapper{
+		clear:both;
+		float:none;
+		width:100%;
+		overflow:hidden;
+	}
+	.formWrapper p{
+		margin:10px 0;
+	}	
+	.formWrapper form {
+		margin-top: 15px;
+	}		
+	.formWrapper form fieldset {
+		width: 90%;
+		margin: 0 auto 10px;
+	}
+	.formWrapper form fieldset label{
+		line-height:30px;
+		font-size:14px;
+	}
+	.formWrapper form fieldset input[type="text"], 
+	.formWrapper form fieldset textarea{
+		padding:6px 0 6px 12px;
+	}
+	.formWrapper form input[type="submit"]{
+		padding:4px 12px;
+		margin-right:25px; 
+	}
+	.mapWrap{
+		width:85%;
+		margin:10px auto 0;
+		height:280px;
+	}
+	.copyrightWrapper{
+		margin-top:40px;
+		padding:10px 0;
+	}
+	.copyrightWrapper p{
+		font-size:13px;
+	}
+	.rightCopyrightWrapper{
+		padding:10px 0;
+	}
+	.rightCopyrightWrapper p{
+		float:none;
+		text-align:center;
+	}	
+	.TestimonialParallaxImg{
+		background-attachment:local;
+		height:65px;
+	}	
+}
+@media screen and (max-width:480px){
+}
